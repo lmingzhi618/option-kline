@@ -1,0 +1,11 @@
+bk/
+data/
+logs/
+log/
+main
+option-kline
+*.swp
+*.swo
+*.out
+*.cpu
+*~
